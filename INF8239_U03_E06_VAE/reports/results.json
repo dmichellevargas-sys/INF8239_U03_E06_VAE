@@ -1,0 +1,26 @@
+{
+  "split": {
+    "train": 54000,
+    "valid": 6000,
+    "test": 10000,
+    "valid_fraction": 0.1,
+    "seed": 42,
+    "limit": 0,
+    "train_index_sha256": "f21e3d1771bfb0627b1aaf3ba7ea18691aaf02bb95dea0af96bbb17bdc62bb46",
+    "valid_index_sha256": "1c91db52df669a30ed1bf910acc6a6db7055a02912255a45ef407d514f51f803"
+  },
+  "selected_model": "ae_z16",
+  "classifier_test_accuracy": 0.8873,
+  "copy_threshold_rms": 0.058450996620314465,
+  "memory_limit": 0.02,
+  "selection_rule": "menor distancia de Fréchet en validación entre modelos con ≤ 2 % de muestras más cercanas al entrenamiento que el percentil 1 de imágenes reales de prueba",
+  "environment": {
+    "python": "3.12.13",
+    "platform": "Linux-6.18.44-fc-v77-x86_64-with-glibc2.39",
+    "processor": "x86_64",
+    "cpu_count": 1,
+    "tensorflow": "2.21.0",
+    "gpu": [],
+    "numpy": "2.5.3"
+  }
+}

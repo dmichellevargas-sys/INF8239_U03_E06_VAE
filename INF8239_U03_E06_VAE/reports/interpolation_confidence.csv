@@ -1,0 +1,9 @@
+pair,path,mean_confidence
+Zapatilla -> Botín,Píxeles,0.7217305302619934
+Zapatilla -> Botín,AE z=16,0.6681989431381226
+Zapatilla -> Botín,VAE z=16,0.6799964904785156
+Zapatilla -> Botín,VAE z=2,0.6983354091644287
+Camiseta/top -> Pantalón,Píxeles,0.8025907278060913
+Camiseta/top -> Pantalón,AE z=16,0.8753484487533569
+Camiseta/top -> Pantalón,VAE z=16,0.8361018896102905
+Camiseta/top -> Pantalón,VAE z=2,0.7128348350524902

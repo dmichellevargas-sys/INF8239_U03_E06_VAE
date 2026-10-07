@@ -1,0 +1,10 @@
+{
+  "train": 54000,
+  "valid": 6000,
+  "test": 10000,
+  "valid_fraction": 0.1,
+  "seed": 42,
+  "limit": 0,
+  "train_index_sha256": "f21e3d1771bfb0627b1aaf3ba7ea18691aaf02bb95dea0af96bbb17bdc62bb46",
+  "valid_index_sha256": "1c91db52df669a30ed1bf910acc6a6db7055a02912255a45ef407d514f51f803"
+}
